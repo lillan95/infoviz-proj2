@@ -12,7 +12,7 @@ yParam = "religion";
 function changeParam(chosen) {
     yParam = chosen;
     d3.select("#ylabel")
-    .text("Importance of " + chosen);
+    .text(function() {if (chosen == "leisureTime") {return  "Importance of leisure time"} else{ return "Importance of " + chosen}});
     d3.json("happiness.json", function(data) {
         var happinessPeriod = data[timeP];
         d3.json(chosen+".json", function(data) {
