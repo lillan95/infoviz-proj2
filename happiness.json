@@ -1,0 +1,2372 @@
+{
+    "Y8184": [
+            {
+                "Country": "World Average",
+                "VeryHappy": "25.1",
+                "RatherHappy": "59.5",
+                "NotVeryHappy": "11.7",
+                "NotAtAllHappy": "1.7",
+                "DontKnow": "2.1",
+                "N": "12.616",
+                " ": " "
+            },
+            {
+                "Country": "Argentina",
+                "VeryHappy": "16.9",
+                "RatherHappy": "60.1",
+                "NotVeryHappy": "19.1",
+                "NotAtAllHappy": "1.3",
+                "DontKnow": "2.5",
+                "N": "1.005",
+                " ": " "
+            },
+            {
+                "Country": "Australia",
+                "VeryHappy": "35.1",
+                "RatherHappy": "59.7",
+                "NotVeryHappy": "4.2",
+                "NotAtAllHappy": "0.4",
+                "DontKnow": "0.7",
+                "N": "1.228",
+                " ": " "
+            },
+            {
+                "Country": "Finland",
+                "VeryHappy": "16.7",
+                "RatherHappy": "76.4",
+                "NotVeryHappy": "5.8",
+                "NotAtAllHappy": "0.6",
+                "DontKnow": "0.6",
+                "N": "1.003",
+                " ": " "
+            },
+            {
+                "Country": "Hungary",
+                "VeryHappy": "10.7",
+                "RatherHappy": "65.8",
+                "NotVeryHappy": "17.9",
+                "NotAtAllHappy": "3.6",
+                "DontKnow": "2",
+                "N": "1.464",
+                " ": " "
+            },
+            {
+                "Country": "Japan",
+                "VeryHappy": "15",
+                "RatherHappy": "61.9",
+                "NotVeryHappy": "14",
+                "NotAtAllHappy": "1.5",
+                "DontKnow": "7.5",
+                "N": "1.204",
+                " ": " "
+            },
+            {
+                "Country": "Mexico",
+                "VeryHappy": "34",
+                "RatherHappy": "45.2",
+                "NotVeryHappy": "18",
+                "NotAtAllHappy": "1",
+                "DontKnow": "1.9",
+                "N": "1.837",
+                " ": " "
+            },
+            {
+                "Country": "South Africa",
+                "VeryHappy": "26.6",
+                "RatherHappy": "53.8",
+                "NotVeryHappy": "13.5",
+                "NotAtAllHappy": "4.3",
+                "DontKnow": "1.9",
+                "N": "1.596",
+                " ": " "
+            },
+            {
+                "Country": "Sweden",
+                "VeryHappy": "28.4",
+                "RatherHappy": "65.8",
+                "NotVeryHappy": "3.4",
+                "NotAtAllHappy": "0.6",
+                "DontKnow": "1.9",
+                "N": "954",
+                " ": " "
+            },
+            {
+                "Country": "United States",
+                "VeryHappy": "32",
+                "RatherHappy": "59.1",
+                "NotVeryHappy": "7",
+                "NotAtAllHappy": "1",
+                "DontKnow": "0.9",
+                "N": "2.325",
+                " ": " "
+            }
+    ],
+    "Y9094": [
+            {
+                "Country": "World Average",
+                "VeryHappy": "21.2",
+                "RatherHappy": "49.6",
+                "NotVeryHappy": "23.2",
+                "NotAtAllHappy": "3.6",
+                "NoAnswer": "0.2",
+                "DontKnow": "2.2",
+                "N": "24.558",
+                " ": " "
+            },
+            {
+                "Country": "Argentina",
+                "VeryHappy": "32.4",
+                "RatherHappy": "43.9",
+                "NotVeryHappy": "18.3",
+                "NotAtAllHappy": "3.8",
+                "NoAnswer": " ",
+                "DontKnow": "1.6",
+                "N": "1.002",
+                " ": " "
+            },
+            {
+                "Country": "Brazil",
+                "VeryHappy": "21",
+                "RatherHappy": "54.5",
+                "NotVeryHappy": "21.9",
+                "NotAtAllHappy": "2.4",
+                "NoAnswer": " ",
+                "DontKnow": "0.3",
+                "N": "1.782",
+                " ": " "
+            },
+            {
+                "Country": "Belarus",
+                "VeryHappy": " ",
+                "RatherHappy": "37.7",
+                "NotVeryHappy": "45.6",
+                "NotAtAllHappy": "6",
+                "NoAnswer": " ",
+                "DontKnow": "4.5",
+                "N": "1.015",
+                " ": " "
+            },
+            {
+                "Country": "Chile",
+                "VeryHappy": "33.1",
+                "RatherHappy": "38.7",
+                "NotVeryHappy": "24.6",
+                "NotAtAllHappy": "2.6",
+                "NoAnswer": " ",
+                "DontKnow": "0.9",
+                "N": "1.5",
+                " ": " "
+            },
+            {
+                "Country": "China",
+                "VeryHappy": "27.5",
+                "RatherHappy": "39.1",
+                "NotVeryHappy": "28.6",
+                "NotAtAllHappy": "2.1",
+                "NoAnswer": "0.6",
+                "DontKnow": "2.1",
+                "N": "1",
+                " ": " "
+            },
+            {
+                "Country": "Czech Rep",
+                "VeryHappy": "5.8",
+                "RatherHappy": "66.8",
+                "NotVeryHappy": "24.5",
+                "NotAtAllHappy": "2.8",
+                "NoAnswer": "0.1",
+                "DontKnow": " ",
+                "N": "924",
+                " ": " "
+            },
+            {
+                "Country": "India",
+                "VeryHappy": "23.8",
+                "RatherHappy": "48.2",
+                "NotVeryHappy": "24",
+                "NotAtAllHappy": "3.6",
+                "NoAnswer": " ",
+                "DontKnow": "0.4",
+                "N": "2.5",
+                " ": " "
+            },
+            {
+                "Country": "Japan",
+                "VeryHappy": "16.9",
+                "RatherHappy": "60.8",
+                "NotVeryHappy": "15.2",
+                "NotAtAllHappy": "0.8",
+                "NoAnswer": " ",
+                "DontKnow": "6.2",
+                "N": "1.011",
+                " ": " "
+            },
+            {
+                "Country": "South Korea",
+                "VeryHappy": "9.9",
+                "RatherHappy": "65.3",
+                "NotVeryHappy": "16.4",
+                "NotAtAllHappy": "3.3",
+                "NoAnswer": "0.5",
+                "DontKnow": "4.6",
+                "N": "1.251",
+                " ": " "
+            },
+            {
+                "Country": "Mexico",
+                "VeryHappy": "25.3",
+                "RatherHappy": "42.3",
+                "NotVeryHappy": "26.2",
+                "NotAtAllHappy": "2.1",
+                "NoAnswer": "1.4",
+                "DontKnow": "2.7",
+                "N": "1.531",
+                " ": " "
+            },
+            {
+                "Country": "Nigeria",
+                "VeryHappy": "39.5",
+                "RatherHappy": "26",
+                "NotVeryHappy": "25.9",
+                "NotAtAllHappy": "7.9",
+                "NoAnswer": " ",
+                "DontKnow": "0.8",
+                "N": "1.001",
+                " ": " "
+            },
+            {
+                "Country": "Poland",
+                "VeryHappy": "9.7",
+                "RatherHappy": "77.9",
+                "NotVeryHappy": "10.9",
+                "NotAtAllHappy": "1.1",
+                "NoAnswer": " ",
+                "DontKnow": "0.4",
+                "N": "938",
+                " ": " "
+            },
+            {
+                "Country": "Russia",
+                "VeryHappy": "5.3",
+                "RatherHappy": "41.9",
+                "NotVeryHappy": "39.6",
+                "NotAtAllHappy": "3.5",
+                "NoAnswer": " ",
+                "DontKnow": "9.7",
+                "N": "1.961",
+                " ": " "
+            },
+            {
+                "Country": "Slovakia",
+                "VeryHappy": "3.9",
+                "RatherHappy": "48.1",
+                "NotVeryHappy": "42.7",
+                "NotAtAllHappy": "5.2",
+                "NoAnswer": "0.2",
+                "DontKnow": " ",
+                "N": "466",
+                " ": " "
+            },
+            {
+                "Country": "South Africa",
+                "VeryHappy": "23.6",
+                "RatherHappy": "42.7",
+                "NotVeryHappy": "24.1",
+                "NotAtAllHappy": "8.8",
+                "NoAnswer": "0.7",
+                "DontKnow": " ",
+                "N": "2.736",
+                " ": " "
+            },
+            {
+                "Country": "Spain",
+                "VeryHappy": "20",
+                "RatherHappy": "63.6",
+                "NotVeryHappy": "12.9",
+                "NotAtAllHappy": "1.5",
+                "NoAnswer": " ",
+                "DontKnow": "1.9",
+                "N": "1.51",
+                " ": " "
+            },
+            {
+                "Country": "Switzerland",
+                "VeryHappy": "35.4",
+                "RatherHappy": "58",
+                "NotVeryHappy": "5.1",
+                "NotAtAllHappy": "0.4",
+                "NoAnswer": " ",
+                "DontKnow": "1.1",
+                "N": "1.4",
+                " ": " "
+            },
+            {
+                "Country": "Turkey",
+                "VeryHappy": "29.3",
+                "RatherHappy": "51.7",
+                "NotVeryHappy": "15.4",
+                "NotAtAllHappy": "3.1",
+                "NoAnswer": " ",
+                "DontKnow": "0.4",
+                "N": "1.03",
+                " ": " "
+            }
+    ],
+    "Y9598": [
+        {
+            "Country": "World Average",
+            "VeryHappy": "23.7",
+            "RatherHappy": "51.6",
+            "NotVeryHappy": "20.1",
+            "NotAtAllHappy": "3.3",
+            "NoAnswer": " ",
+            "DontKnow": "1.2",
+            "N": "74.389",
+            " ": " "
+        },
+        {
+            "Country": "Albania",
+            "VeryHappy": "3.1",
+            "RatherHappy": "30.3",
+            "NotVeryHappy": "52.5",
+            "NotAtAllHappy": "10.9",
+            "NoAnswer": " ",
+            "DontKnow": "3.2",
+            "N": "999",
+            " ": " "
+        },
+        {
+            "Country": "Azerbaijan",
+            "VeryHappy": "11",
+            "RatherHappy": "65.6",
+            "NotVeryHappy": "20.2",
+            "NotAtAllHappy": "1.3",
+            "NoAnswer": " ",
+            "DontKnow": "1.9",
+            "N": "2.002",
+            " ": " "
+        },
+        {
+            "Country": "Argentina",
+            "VeryHappy": "28.8",
+            "RatherHappy": "52.8",
+            "NotVeryHappy": "14.9",
+            "NotAtAllHappy": "2.4",
+            "NoAnswer": " ",
+            "DontKnow": "1.1",
+            "N": "1.079",
+            " ": " "
+        },
+        {
+            "Country": "Australia",
+            "VeryHappy": "42.8",
+            "RatherHappy": "51.5",
+            "NotVeryHappy": "4.4",
+            "NotAtAllHappy": "1",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "2.048",
+            " ": " "
+        },
+        {
+            "Country": "Bangladesh",
+            "VeryHappy": "18",
+            "RatherHappy": "66.8",
+            "NotVeryHappy": "13.2",
+            "NotAtAllHappy": "1.7",
+            "NoAnswer": " ",
+            "DontKnow": "0.4",
+            "N": "1.525",
+            " ": " "
+        },
+        {
+            "Country": "Armenia",
+            "VeryHappy": "6",
+            "RatherHappy": "48.8",
+            "NotVeryHappy": "34.2",
+            "NotAtAllHappy": "7.4",
+            "NoAnswer": " ",
+            "DontKnow": "3.6",
+            "N": "2",
+            " ": " "
+        },
+        {
+            "Country": "Brazil",
+            "VeryHappy": "22",
+            "RatherHappy": "60.9",
+            "NotVeryHappy": "14.9",
+            "NotAtAllHappy": "2.1",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.143",
+            " ": " "
+        },
+        {
+            "Country": "Bulgaria",
+            "VeryHappy": "9",
+            "RatherHappy": "46.5",
+            "NotVeryHappy": "32.7",
+            "NotAtAllHappy": "8.7",
+            "NoAnswer": " ",
+            "DontKnow": "3.1",
+            "N": "1.072",
+            " ": " "
+        },
+        {
+            "Country": "Belarus",
+            "VeryHappy": "4.2",
+            "RatherHappy": "40.7",
+            "NotVeryHappy": "42.8",
+            "NotAtAllHappy": "8.8",
+            "NoAnswer": " ",
+            "DontKnow": "3.4",
+            "N": "2.092",
+            " ": " "
+        },
+        {
+            "Country": "Chile",
+            "VeryHappy": "27",
+            "RatherHappy": "52.7",
+            "NotVeryHappy": "19.2",
+            "NotAtAllHappy": "0.7",
+            "NoAnswer": " ",
+            "DontKnow": "0.4",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "China",
+            "VeryHappy": "22.7",
+            "RatherHappy": "60.9",
+            "NotVeryHappy": "14.1",
+            "NotAtAllHappy": "1.7",
+            "NoAnswer": " ",
+            "DontKnow": "0.6",
+            "N": "1.5",
+            " ": " "
+        },
+        {
+            "Country": "Taiwan",
+            "VeryHappy": "29.7",
+            "RatherHappy": "60.9",
+            "NotVeryHappy": "7.3",
+            "NotAtAllHappy": "1.5",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.3",
+            "N": "780",
+            " ": " "
+        },
+        {
+            "Country": "Colombia",
+            "VeryHappy": "47.1",
+            "RatherHappy": "37.2",
+            "NotVeryHappy": "14.7",
+            "NotAtAllHappy": "1",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "2.996",
+            " ": " "
+        },
+        {
+            "Country": "Croatia",
+            "VeryHappy": "8.4",
+            "RatherHappy": "61",
+            "NotVeryHappy": "26.3",
+            "NotAtAllHappy": "3.3",
+            "NoAnswer": " ",
+            "DontKnow": "1.1",
+            "N": "1.196",
+            " ": " "
+        },
+        {
+            "Country": "Czech Rep.",
+            "VeryHappy": "8.9",
+            "RatherHappy": "73.8",
+            "NotVeryHappy": "14.2",
+            "NotAtAllHappy": "2.1",
+            "NoAnswer": "1",
+            "DontKnow": " ",
+            "N": "1.147",
+            " ": " "
+        },
+        {
+            "Country": "Dominican Rep.",
+            "VeryHappy": "31.9",
+            "RatherHappy": "40.5",
+            "NotVeryHappy": "24.9",
+            "NotAtAllHappy": "1",
+            "NoAnswer": " ",
+            "DontKnow": "1.7",
+            "N": "417",
+            " ": " "
+        },
+        {
+            "Country": "El Salvador",
+            "VeryHappy": "55.6",
+            "RatherHappy": "36.4",
+            "NotVeryHappy": "6.7",
+            "NotAtAllHappy": "1.1",
+            "NoAnswer": " ",
+            "DontKnow": "0.2",
+            "N": "1.254",
+            " ": " "
+        },
+        {
+            "Country": "Estonia",
+            "VeryHappy": "4.6",
+            "RatherHappy": "59.1",
+            "NotVeryHappy": "29.5",
+            "NotAtAllHappy": "5.1",
+            "NoAnswer": " ",
+            "DontKnow": "1.8",
+            "N": "1.021",
+            " ": " "
+        },
+        {
+            "Country": "Finland",
+            "VeryHappy": "23.7",
+            "RatherHappy": "67.5",
+            "NotVeryHappy": "6.5",
+            "NotAtAllHappy": "1.1",
+            "NoAnswer": " ",
+            "DontKnow": "1.2",
+            "N": "987",
+            " ": " "
+        },
+        {
+            "Country": "Georgia",
+            "VeryHappy": "11.6",
+            "RatherHappy": "53.6",
+            "NotVeryHappy": "29.1",
+            "NotAtAllHappy": "5.2",
+            "NoAnswer": " ",
+            "DontKnow": "0.4",
+            "N": "2.008",
+            " ": " "
+        },
+        {
+            "Country": "Germany",
+            "VeryHappy": "17.9",
+            "RatherHappy": "62.6",
+            "NotVeryHappy": "15.3",
+            "NotAtAllHappy": "3",
+            "NoAnswer": " ",
+            "DontKnow": "1.2",
+            "N": "2.026",
+            " ": " "
+        },
+        {
+            "Country": "Hungary",
+            "VeryHappy": "13.5",
+            "RatherHappy": "63.8",
+            "NotVeryHappy": "17.7",
+            "NotAtAllHappy": "3.8",
+            "NoAnswer": " ",
+            "DontKnow": "1.1",
+            "N": "650",
+            " ": " "
+        },
+        {
+            "Country": "India",
+            "VeryHappy": "29.9",
+            "RatherHappy": "46",
+            "NotVeryHappy": "19.8",
+            "NotAtAllHappy": "2.8",
+            "NoAnswer": " ",
+            "DontKnow": "1.5",
+            "N": "2.04",
+            " ": " "
+        },
+        {
+            "Country": "Japan",
+            "VeryHappy": "32.5",
+            "RatherHappy": "56.5",
+            "NotVeryHappy": "8.9",
+            "NotAtAllHappy": "0.6",
+            "NoAnswer": " ",
+            "DontKnow": "1.4",
+            "N": "1.054",
+            " ": " "
+        },
+        {
+            "Country": "South Korea",
+            "VeryHappy": "11.9",
+            "RatherHappy": "76.9",
+            "NotVeryHappy": "10.1",
+            "NotAtAllHappy": "1",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.249",
+            " ": " "
+        },
+        {
+            "Country": "Latvia",
+            "VeryHappy": "4.4",
+            "RatherHappy": "64.4",
+            "NotVeryHappy": "24.2",
+            "NotAtAllHappy": "3.3",
+            "NoAnswer": " ",
+            "DontKnow": "3.7",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "Lithuania",
+            "VeryHappy": "4.1",
+            "RatherHappy": "50.6",
+            "NotVeryHappy": "36",
+            "NotAtAllHappy": "4.9",
+            "NoAnswer": " ",
+            "DontKnow": "4.5",
+            "N": "1.009",
+            " ": " "
+        },
+        {
+            "Country": "Mexico",
+            "VeryHappy": "31.5",
+            "RatherHappy": "38.1",
+            "NotVeryHappy": "26.3",
+            "NotAtAllHappy": "2.6",
+            "NoAnswer": " ",
+            "DontKnow": "1.5",
+            "N": "1.51",
+            " ": " "
+        },
+        {
+            "Country": "Moldova",
+            "VeryHappy": "3.6",
+            "RatherHappy": "39.8",
+            "NotVeryHappy": "47.7",
+            "NotAtAllHappy": "7.8",
+            "NoAnswer": " ",
+            "DontKnow": "1.1",
+            "N": "984",
+            " ": " "
+        },
+        {
+            "Country": "New Zealand",
+            "VeryHappy": "32.8",
+            "RatherHappy": "61.5",
+            "NotVeryHappy": "4.3",
+            "NotAtAllHappy": "0.6",
+            "NoAnswer": "0.7",
+            "DontKnow": "0.1",
+            "N": "1.201",
+            " ": " "
+        },
+        {
+            "Country": "Nigeria",
+            "VeryHappy": "46.2",
+            "RatherHappy": "38.1",
+            "NotVeryHappy": "12.4",
+            "NotAtAllHappy": "2.9",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.1",
+            "N": "1.996",
+            " ": " "
+        },
+        {
+            "Country": "Norway",
+            "VeryHappy": "29.9",
+            "RatherHappy": "64.4",
+            "NotVeryHappy": "4.8",
+            "NotAtAllHappy": "0.7",
+            "NoAnswer": " ",
+            "DontKnow": "0.2",
+            "N": "1.127",
+            " ": " "
+        },
+        {
+            "Country": "Pakistan",
+            "VeryHappy": "27.9",
+            "RatherHappy": "51.2",
+            "NotVeryHappy": "16.9",
+            "NotAtAllHappy": "4",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "733",
+            " ": " "
+        },
+        {
+            "Country": "Peru",
+            "VeryHappy": "28.2",
+            "RatherHappy": "34.7",
+            "NotVeryHappy": "35.1",
+            "NotAtAllHappy": "1.2",
+            "NoAnswer": " ",
+            "DontKnow": "0.8",
+            "N": "1.211",
+            " ": " "
+        },
+        {
+            "Country": "Philippines",
+            "VeryHappy": "40.2",
+            "RatherHappy": "52.2",
+            "NotVeryHappy": "6.3",
+            "NotAtAllHappy": "1.1",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "Poland",
+            "VeryHappy": "18.3",
+            "RatherHappy": "67",
+            "NotVeryHappy": "11.5",
+            "NotAtAllHappy": "2.5",
+            "NoAnswer": " ",
+            "DontKnow": "0.7",
+            "N": "1.153",
+            " ": " "
+        },
+        {
+            "Country": "Puerto Rico",
+            "VeryHappy": "42.9",
+            "RatherHappy": "47.9",
+            "NotVeryHappy": "7.8",
+            "NotAtAllHappy": "1",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.3",
+            "N": "1.164",
+            " ": " "
+        },
+        {
+            "Country": "Romania",
+            "VeryHappy": "5.1",
+            "RatherHappy": "51",
+            "NotVeryHappy": "35.2",
+            "NotAtAllHappy": "7.1",
+            "NoAnswer": " ",
+            "DontKnow": "1.6",
+            "N": "1.239",
+            " ": " "
+        },
+        {
+            "Country": "Russia",
+            "VeryHappy": "6.1",
+            "RatherHappy": "44.1",
+            "NotVeryHappy": "40.3",
+            "NotAtAllHappy": "7.6",
+            "NoAnswer": " ",
+            "DontKnow": "1.9",
+            "N": "2.04",
+            " ": " "
+        },
+        {
+            "Country": "Slovakia",
+            "VeryHappy": "6.6",
+            "RatherHappy": "64.8",
+            "NotVeryHappy": "24.3",
+            "NotAtAllHappy": "3.7",
+            "NoAnswer": " ",
+            "DontKnow": "0.6",
+            "N": "1.095",
+            " ": " "
+        },
+        {
+            "Country": "Slovenia",
+            "VeryHappy": "13.4",
+            "RatherHappy": "60.4",
+            "NotVeryHappy": "22.5",
+            "NotAtAllHappy": "2.8",
+            "NoAnswer": " ",
+            "DontKnow": "0.9",
+            "N": "1.007",
+            " ": " "
+        },
+        {
+            "Country": "South Africa",
+            "VeryHappy": "35.3",
+            "RatherHappy": "37.1",
+            "NotVeryHappy": "21.7",
+            "NotAtAllHappy": "5.6",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "2.935",
+            " ": " "
+        },
+        {
+            "Country": "Spain",
+            "VeryHappy": "18.7",
+            "RatherHappy": "67.8",
+            "NotVeryHappy": "12.2",
+            "NotAtAllHappy": "0.9",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "1.211",
+            " ": " "
+        },
+        {
+            "Country": "Sweden",
+            "VeryHappy": "39.2",
+            "RatherHappy": "54.7",
+            "NotVeryHappy": "4.1",
+            "NotAtAllHappy": "0.8",
+            "NoAnswer": " ",
+            "DontKnow": "1.2",
+            "N": "1.009",
+            " ": " "
+        },
+        {
+            "Country": "Switzerland",
+            "VeryHappy": "39.8",
+            "RatherHappy": "54.5",
+            "NotVeryHappy": "4.7",
+            "NotAtAllHappy": "0.6",
+            "NoAnswer": " ",
+            "DontKnow": "0.4",
+            "N": "1.212",
+            " ": " "
+        },
+        {
+            "Country": "Turkey",
+            "VeryHappy": "51",
+            "RatherHappy": "37.3",
+            "NotVeryHappy": "9.4",
+            "NotAtAllHappy": "2.1",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.907",
+            " ": " "
+        },
+        {
+            "Country": "Ukraine",
+            "VeryHappy": "4.9",
+            "RatherHappy": "40.9",
+            "NotVeryHappy": "40.9",
+            "NotAtAllHappy": "8.4",
+            "NoAnswer": " ",
+            "DontKnow": "4.8",
+            "N": "2.811",
+            " ": " "
+        },
+        {
+            "Country": "Macedonia",
+            "VeryHappy": "13.4",
+            "RatherHappy": "48.9",
+            "NotVeryHappy": "32.6",
+            "NotAtAllHappy": "3.4",
+            "NoAnswer": " ",
+            "DontKnow": "1.7",
+            "N": "995",
+            " ": " "
+        },
+        {
+            "Country": "United Kingdom",
+            "VeryHappy": "32.4",
+            "RatherHappy": "58.2",
+            "NotVeryHappy": "6.8",
+            "NotAtAllHappy": "2.4",
+            "NoAnswer": " ",
+            "DontKnow": "0.2",
+            "N": "1.093",
+            " ": " "
+        },
+        {
+            "Country": "United States",
+            "VeryHappy": "46.3",
+            "RatherHappy": "47.5",
+            "NotVeryHappy": "5.3",
+            "NotAtAllHappy": "0.5",
+            "NoAnswer": " ",
+            "DontKnow": "0.4",
+            "N": "1.542",
+            " ": " "
+        },
+        {
+            "Country": "Uruguay",
+            "VeryHappy": "20.6",
+            "RatherHappy": "58.8",
+            "NotVeryHappy": "17.6",
+            "NotAtAllHappy": "2.4",
+            "NoAnswer": " ",
+            "DontKnow": "0.6",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "Venezuela",
+            "VeryHappy": "54.4",
+            "RatherHappy": "38.2",
+            "NotVeryHappy": "5.8",
+            "NotAtAllHappy": "0.7",
+            "NoAnswer": " ",
+            "DontKnow": "0.8",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "Serbia",
+            "VeryHappy": "13.9",
+            "RatherHappy": "56",
+            "NotVeryHappy": "24.5",
+            "NotAtAllHappy": "4.5",
+            "NoAnswer": " ",
+            "DontKnow": "1.1",
+            "N": "1.28",
+            " ": " "
+        },
+        {
+            "Country": "Montenegro",
+            "VeryHappy": "13.8",
+            "RatherHappy": "55.4",
+            "NotVeryHappy": "27.5",
+            "NotAtAllHappy": "1.7",
+            "NoAnswer": " ",
+            "DontKnow": "1.7",
+            "N": "240",
+            " ": " "
+        },
+        {
+            "Country": "Bosnia",
+            "VeryHappy": "15",
+            "RatherHappy": "64.1",
+            "NotVeryHappy": "18.6",
+            "NotAtAllHappy": "1.5",
+            "NoAnswer": " ",
+            "DontKnow": "0.8",
+            "N": "800",
+            " ": " "
+        }
+    ],
+    "Y0509": [
+        {
+            "Country": "World Average",
+            "VeryHappy": "27.5",
+            "RatherHappy": "53.5",
+            "NotVeryHappy": "15",
+            "NotAtAllHappy": "2.9",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.7",
+            "N": "83.975",
+            " ": " "
+        },
+        {
+            "Country": "Andorra",
+            "VeryHappy": "27.8",
+            "RatherHappy": "64.7",
+            "NotVeryHappy": "5.9",
+            "NotAtAllHappy": "1",
+            "HTRU": " ",
+            "NoAnswer": "0.6",
+            "DontKnow": " ",
+            "N": "1.003",
+            " ": " "
+        },
+        {
+            "Country": "Argentina",
+            "VeryHappy": "32.4",
+            "RatherHappy": "55.2",
+            "NotVeryHappy": "9.9",
+            "NotAtAllHappy": "1.4",
+            "HTRU": " ",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.7",
+            "N": "1.002",
+            " ": " "
+        },
+        {
+            "Country": "Australia",
+            "VeryHappy": "35.2",
+            "RatherHappy": "56.4",
+            "NotVeryHappy": "7.1",
+            "NotAtAllHappy": "0.8",
+            "HTRU": " ",
+            "NoAnswer": "0.6",
+            "DontKnow": " ",
+            "N": "1.421",
+            " ": " "
+        },
+        {
+            "Country": "Brazil",
+            "VeryHappy": "34",
+            "RatherHappy": "56.4",
+            "NotVeryHappy": "8.8",
+            "NotAtAllHappy": "0.6",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.1",
+            "N": "1.5",
+            " ": " "
+        },
+        {
+            "Country": "Bulgaria",
+            "VeryHappy": "10.7",
+            "RatherHappy": "45.7",
+            "NotVeryHappy": "32.6",
+            "NotAtAllHappy": "8.3",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "2.8",
+            "N": "1.001",
+            " ": " "
+        },
+        {
+            "Country": "Canada",
+            "VeryHappy": "46.2",
+            "RatherHappy": "49",
+            "NotVeryHappy": "3.8",
+            "NotAtAllHappy": "0.6",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.3",
+            "N": "2.164",
+            " ": " "
+        },
+        {
+            "Country": "Chile",
+            "VeryHappy": "30.5",
+            "RatherHappy": "49",
+            "NotVeryHappy": "18.6",
+            "NotAtAllHappy": "1.8",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "China",
+            "VeryHappy": "18.8",
+            "RatherHappy": "58",
+            "NotVeryHappy": "19",
+            "NotAtAllHappy": "3.5",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.6",
+            "N": "1.991",
+            " ": " "
+        },
+        {
+            "Country": "Taiwan",
+            "VeryHappy": "21.6",
+            "RatherHappy": "63.5",
+            "NotVeryHappy": "11.9",
+            "NotAtAllHappy": "2.9",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.227",
+            " ": " "
+        },
+        {
+            "Country": "Colombia",
+            "VeryHappy": "48.7",
+            "RatherHappy": "38.2",
+            "NotVeryHappy": "12",
+            "NotAtAllHappy": "0.9",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "3.025",
+            " ": " "
+        },
+        {
+            "Country": "Cyprus",
+            "VeryHappy": "36.6",
+            "RatherHappy": "50.4",
+            "NotVeryHappy": "10.5",
+            "NotAtAllHappy": "2.4",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.05",
+            " ": " "
+        },
+        {
+            "Country": "Ethiopia",
+            "VeryHappy": "29.7",
+            "RatherHappy": "33.7",
+            "NotVeryHappy": "30.7",
+            "NotAtAllHappy": "5.4",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.1",
+            "N": "1.5",
+            " ": " "
+        },
+        {
+            "Country": "Finland",
+            "VeryHappy": "29.5",
+            "RatherHappy": "62.5",
+            "NotVeryHappy": "6.7",
+            "NotAtAllHappy": "1.2",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.014",
+            " ": " "
+        },
+        {
+            "Country": "France",
+            "VeryHappy": "36.3",
+            "RatherHappy": "53.8",
+            "NotVeryHappy": "7.6",
+            "NotAtAllHappy": "1.9",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "1.001",
+            " ": " "
+        },
+        {
+            "Country": "Georgia",
+            "VeryHappy": "12.1",
+            "RatherHappy": "54",
+            "NotVeryHappy": "28.7",
+            "NotAtAllHappy": "3.9",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "1.2",
+            "N": "1.5",
+            " ": " "
+        },
+        {
+            "Country": "Germany",
+            "VeryHappy": "19.3",
+            "RatherHappy": "61.9",
+            "NotVeryHappy": "14.1",
+            "NotAtAllHappy": "1.5",
+            "HTRU": " ",
+            "NoAnswer": "0.6",
+            "DontKnow": "2.6",
+            "N": "2.064",
+            " ": " "
+        },
+        {
+            "Country": "Ghana",
+            "VeryHappy": "50.1",
+            "RatherHappy": "28.4",
+            "NotVeryHappy": "17.5",
+            "NotAtAllHappy": "4",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.534",
+            " ": " "
+        },
+        {
+            "Country": "Guatemala",
+            "VeryHappy": "44",
+            "RatherHappy": "34",
+            "NotVeryHappy": "21.6",
+            "NotAtAllHappy": "0.3",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "Hong Kong",
+            "VeryHappy": "6.9",
+            "RatherHappy": "76.7",
+            "NotVeryHappy": "15.4",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.6",
+            "N": "1.252",
+            " ": " "
+        },
+        {
+            "Country": "Hungary",
+            "VeryHappy": "17.1",
+            "RatherHappy": "58.5",
+            "NotVeryHappy": "20.8",
+            "NotAtAllHappy": "3.2",
+            "HTRU": "0.2",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "1.007",
+            " ": " "
+        },
+        {
+            "Country": "India",
+            "VeryHappy": "28.9",
+            "RatherHappy": "46.4",
+            "NotVeryHappy": "21.6",
+            "NotAtAllHappy": "2.7",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "2.001",
+            " ": " "
+        },
+        {
+            "Country": "Indonesia",
+            "VeryHappy": "25.2",
+            "RatherHappy": "66.9",
+            "NotVeryHappy": "6",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": "0.8",
+            "DontKnow": "0.5",
+            "N": "2.015",
+            " ": " "
+        },
+        {
+            "Country": "Iran",
+            "VeryHappy": "18.1",
+            "RatherHappy": "61.3",
+            "NotVeryHappy": "14.8",
+            "NotAtAllHappy": "4.5",
+            "HTRU": " ",
+            "NoAnswer": "1",
+            "DontKnow": "0.2",
+            "N": "2.667",
+            " ": " "
+        },
+        {
+            "Country": "Iraq",
+            "VeryHappy": "6.2",
+            "RatherHappy": "46",
+            "NotVeryHappy": "28.4",
+            "NotAtAllHappy": "17.1",
+            "HTRU": " ",
+            "NoAnswer": "1.4",
+            "DontKnow": "1",
+            "N": "2.701",
+            " ": " "
+        },
+        {
+            "Country": "Italy",
+            "VeryHappy": "18.4",
+            "RatherHappy": "71",
+            "NotVeryHappy": "8.6",
+            "NotAtAllHappy": "1.4",
+            "HTRU": " ",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.2",
+            "N": "1.012",
+            " ": " "
+        },
+        {
+            "Country": "Japan",
+            "VeryHappy": "28.4",
+            "RatherHappy": "58.9",
+            "NotVeryHappy": "8.9",
+            "NotAtAllHappy": "1.1",
+            "HTRU": " ",
+            "NoAnswer": "2.7",
+            "DontKnow": " ",
+            "N": "1.096",
+            " ": " "
+        },
+        {
+            "Country": "Jordan",
+            "VeryHappy": "29.8",
+            "RatherHappy": "57.1",
+            "NotVeryHappy": "10.9",
+            "NotAtAllHappy": "2.2",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "South Korea",
+            "VeryHappy": "12.9",
+            "RatherHappy": "74.5",
+            "NotVeryHappy": "11.7",
+            "NotAtAllHappy": "0.9",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "Malaysia",
+            "VeryHappy": "36.5",
+            "RatherHappy": "58.3",
+            "NotVeryHappy": "5.1",
+            "NotAtAllHappy": "0.2",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.201",
+            " ": " "
+        },
+        {
+            "Country": "Mali",
+            "VeryHappy": "39",
+            "RatherHappy": "43.6",
+            "NotVeryHappy": "13.5",
+            "NotAtAllHappy": "2.7",
+            "HTRU": " ",
+            "NoAnswer": "0.9",
+            "DontKnow": "0.3",
+            "N": "1.534",
+            " ": " "
+        },
+        {
+            "Country": "Mexico",
+            "VeryHappy": "58.3",
+            "RatherHappy": "32.4",
+            "NotVeryHappy": "8.3",
+            "NotAtAllHappy": "0.7",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.1",
+            "N": "1.56",
+            " ": " "
+        },
+        {
+            "Country": "Moldova",
+            "VeryHappy": "9.7",
+            "RatherHappy": "40.5",
+            "NotVeryHappy": "34",
+            "NotAtAllHappy": "12.8",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "3",
+            "N": "1.046",
+            " ": " "
+        },
+        {
+            "Country": "Morocco",
+            "VeryHappy": "24.6",
+            "RatherHappy": "56.2",
+            "NotVeryHappy": "16.3",
+            "NotAtAllHappy": "2.8",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "Netherlands",
+            "VeryHappy": "41.8",
+            "RatherHappy": "52.1",
+            "NotVeryHappy": "5.3",
+            "NotAtAllHappy": "0.5",
+            "HTRU": "0.2",
+            "NoAnswer": "0.2",
+            "DontKnow": " ",
+            "N": "1.05",
+            " ": " "
+        },
+        {
+            "Country": "New Zealand",
+            "VeryHappy": "38.1",
+            "RatherHappy": "58.4",
+            "NotVeryHappy": "2.5",
+            "NotAtAllHappy": "0.1",
+            "HTRU": " ",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.5",
+            "N": "954",
+            " ": " "
+        },
+        {
+            "Country": "Norway",
+            "VeryHappy": "36.6",
+            "RatherHappy": "59.7",
+            "NotVeryHappy": "3.3",
+            "NotAtAllHappy": "0.2",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.1",
+            "N": "1.025",
+            " ": " "
+        },
+        {
+            "Country": "Peru",
+            "VeryHappy": "27.9",
+            "RatherHappy": "39.5",
+            "NotVeryHappy": "30.4",
+            "NotAtAllHappy": "1.8",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": " ",
+            "N": "1.5",
+            " ": " "
+        },
+        {
+            "Country": "Poland",
+            "VeryHappy": "21.3",
+            "RatherHappy": "66.4",
+            "NotVeryHappy": "7.2",
+            "NotAtAllHappy": "1.2",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "3.9",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "Romania",
+            "VeryHappy": "7.3",
+            "RatherHappy": "48",
+            "NotVeryHappy": "36.5",
+            "NotAtAllHappy": "7.4",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.6",
+            "N": "1.776",
+            " ": " "
+        },
+        {
+            "Country": "Russia",
+            "VeryHappy": "10.5",
+            "RatherHappy": "55.2",
+            "NotVeryHappy": "25.9",
+            "NotAtAllHappy": "3.9",
+            "HTRU": "0.2",
+            "NoAnswer": "0.6",
+            "DontKnow": "3.8",
+            "N": "2.033",
+            " ": " "
+        },
+        {
+            "Country": "Rwanda",
+            "VeryHappy": "11.9",
+            "RatherHappy": "73.5",
+            "NotVeryHappy": "12",
+            "NotAtAllHappy": "2.4",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": " ",
+            "N": "1.507",
+            " ": " "
+        },
+        {
+            "Country": "Serbia",
+            "VeryHappy": "10.2",
+            "RatherHappy": "52",
+            "NotVeryHappy": "30.1",
+            "NotAtAllHappy": "5.2",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": "2",
+            "N": "1.22",
+            " ": " "
+        },
+        {
+            "Country": "Vietnam",
+            "VeryHappy": "22.5",
+            "RatherHappy": "69",
+            "NotVeryHappy": "7.1",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.5",
+            "N": "1.495",
+            " ": " "
+        },
+        {
+            "Country": "Slovenia",
+            "VeryHappy": "17.8",
+            "RatherHappy": "62",
+            "NotVeryHappy": "16.3",
+            "NotAtAllHappy": "2.4",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "1.2",
+            "N": "1.037",
+            " ": " "
+        },
+        {
+            "Country": "South Africa",
+            "VeryHappy": "42.7",
+            "RatherHappy": "35.1",
+            "NotVeryHappy": "15.7",
+            "NotAtAllHappy": "6.1",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "2.988",
+            " ": " "
+        },
+        {
+            "Country": "Spain",
+            "VeryHappy": "13.6",
+            "RatherHappy": "78.4",
+            "NotVeryHappy": "6.3",
+            "NotAtAllHappy": "1.2",
+            "HTRU": "0.2",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.1",
+            "N": "1.2",
+            " ": " "
+        },
+        {
+            "Country": "Sweden",
+            "VeryHappy": "43",
+            "RatherHappy": "53.1",
+            "NotVeryHappy": "3.2",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": " ",
+            "N": "1.003",
+            " ": " "
+        },
+        {
+            "Country": "Switzerland",
+            "VeryHappy": "42",
+            "RatherHappy": "51.5",
+            "NotVeryHappy": "5.6",
+            "NotAtAllHappy": "0.3",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.2",
+            "N": "1.241",
+            " ": " "
+        },
+        {
+            "Country": "Thailand",
+            "VeryHappy": "40.2",
+            "RatherHappy": "52.2",
+            "NotVeryHappy": "6.7",
+            "NotAtAllHappy": "0.6",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": " ",
+            "N": "1.534",
+            " ": " "
+        },
+        {
+            "Country": "Trinidad and Tobago",
+            "VeryHappy": "51.7",
+            "RatherHappy": "35.1",
+            "NotVeryHappy": "11.6",
+            "NotAtAllHappy": "1.7",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.002",
+            " ": " "
+        },
+        {
+            "Country": "Turkey",
+            "VeryHappy": "37.3",
+            "RatherHappy": "48.8",
+            "NotVeryHappy": "9.4",
+            "NotAtAllHappy": "4.3",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.346",
+            " ": " "
+        },
+        {
+            "Country": "Ukraine",
+            "VeryHappy": "11.3",
+            "RatherHappy": "63.3",
+            "NotVeryHappy": "17.6",
+            "NotAtAllHappy": "5",
+            "HTRU": " ",
+            "NoAnswer": "0.7",
+            "DontKnow": "2.1",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "Egypt",
+            "VeryHappy": "9.6",
+            "RatherHappy": "73.5",
+            "NotVeryHappy": "14.8",
+            "NotAtAllHappy": "2",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "3.051",
+            " ": " "
+        },
+        {
+            "Country": "United Kingdom",
+            "VeryHappy": "50.7",
+            "RatherHappy": "42.7",
+            "NotVeryHappy": "5.2",
+            "NotAtAllHappy": "1.2",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.1",
+            "N": "1.041",
+            " ": " "
+        },
+        {
+            "Country": "United States",
+            "VeryHappy": "34.4",
+            "RatherHappy": "58.8",
+            "NotVeryHappy": "6.4",
+            "NotAtAllHappy": "0.4",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.249",
+            " ": " "
+        },
+        {
+            "Country": "Burkina Faso",
+            "VeryHappy": "24.1",
+            "RatherHappy": "55.6",
+            "NotVeryHappy": "15.6",
+            "NotAtAllHappy": "4",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.5",
+            "N": "1.534",
+            " ": " "
+        },
+        {
+            "Country": "Uruguay",
+            "VeryHappy": "30.3",
+            "RatherHappy": "55.6",
+            "NotVeryHappy": "11.9",
+            "NotAtAllHappy": "1.7",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": " ",
+            "N": "1",
+            " ": " "
+        },
+        {
+            "Country": "Zambia",
+            "VeryHappy": "17.7",
+            "RatherHappy": "33.9",
+            "NotVeryHappy": "37.8",
+            "NotAtAllHappy": " ",
+            "HTRU": "0.7",
+            "NoAnswer": "0.9",
+            "DontKnow": "8.9",
+            "N": "1.5",
+            " ": " "
+        }
+    ],
+    "Y1014": [
+        {
+            "Country": "World Average",
+            "VeryHappy": "32.5",
+            "RatherHappy": "51.1",
+            "NotVeryHappy": "12.7",
+            "NotAtAllHappy": "2.9",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.6",
+            "N": "89.565"
+        
+        },
+        {
+            "Country": "Algeria",
+            "VeryHappy": "17.6",
+            "RatherHappy": "57.9",
+            "NotVeryHappy": "15.2",
+            "NotAtAllHappy": "3.8",
+            "HTRU": " ",
+            "NoAnswer": "5.5",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Azerbaijan",
+            "VeryHappy": "27.2",
+            "RatherHappy": "53.4",
+            "NotVeryHappy": "16.8",
+            "NotAtAllHappy": "2.6",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.002"
+        
+        },
+        {
+            "Country": "Argentina",
+            "VeryHappy": "33.3",
+            "RatherHappy": "53.1",
+            "NotVeryHappy": "11.6",
+            "NotAtAllHappy": "1",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": "0.5",
+            "N": "1.03"
+        
+        },
+        {
+            "Country": "Australia",
+            "VeryHappy": "34.9",
+            "RatherHappy": "57.7",
+            "NotVeryHappy": "6.2",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": "0.7",
+            "DontKnow": " ",
+            "N": "1.477"
+        
+        },
+        {
+            "Country": "Armenia",
+            "VeryHappy": "31.2",
+            "RatherHappy": "50.8",
+            "NotVeryHappy": "12",
+            "NotAtAllHappy": "5.1",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.8",
+            "N": "1.1"
+        
+        },
+        {
+            "Country": "Brazil",
+            "VeryHappy": "35.2",
+            "RatherHappy": "56.8",
+            "NotVeryHappy": "7.2",
+            "NotAtAllHappy": "0.8",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.486"
+        
+        },
+        {
+            "Country": "Belarus",
+            "VeryHappy": "10.6",
+            "RatherHappy": "53.1",
+            "NotVeryHappy": "27.3",
+            "NotAtAllHappy": "3.5",
+            "HTRU": " ",
+            "NoAnswer": "1.1",
+            "DontKnow": "4.4",
+            "N": "1.535"
+        
+        },
+        {
+            "Country": "Chile",
+            "VeryHappy": "24.4",
+            "RatherHappy": "60.1",
+            "NotVeryHappy": "14.4",
+            "NotAtAllHappy": "0.8",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.1",
+            "N": "1"
+        
+        },
+        {
+            "Country": "China",
+            "VeryHappy": "15.7",
+            "RatherHappy": "68.8",
+            "NotVeryHappy": "13.3",
+            "NotAtAllHappy": "1.1",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": "0.7",
+            "N": "2.3"
+        
+        },
+        {
+            "Country": "Taiwan",
+            "VeryHappy": "26",
+            "RatherHappy": "63.9",
+            "NotVeryHappy": "7.8",
+            "NotAtAllHappy": "1.3",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.8",
+            "N": "1.238"
+        
+        },
+        {
+            "Country": "Colombia",
+            "VeryHappy": "56.5",
+            "RatherHappy": "35",
+            "NotVeryHappy": "7.9",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.512"
+        
+        },
+        {
+            "Country": "Cyprus",
+            "VeryHappy": "25.9",
+            "RatherHappy": "55.8",
+            "NotVeryHappy": "14.4",
+            "NotAtAllHappy": "3.5",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.2",
+            "N": "1"
+        },
+        {
+            "Country": "Ecuador",
+            "VeryHappy": "57.7",
+            "RatherHappy": "35.3",
+            "NotVeryHappy": "6.2",
+            "NotAtAllHappy": "0.7",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.202"
+        
+        },
+        {
+            "Country": "Estonia",
+            "VeryHappy": "12.7",
+            "RatherHappy": "64",
+            "NotVeryHappy": "19.9",
+            "NotAtAllHappy": "1.9",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": "1.4",
+            "N": "1.533"
+        
+        },
+        {
+            "Country": "Georgia",
+            "VeryHappy": "21.5",
+            "RatherHappy": "48.1",
+            "NotVeryHappy": "25.3",
+            "NotAtAllHappy": "5.1",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.1",
+            "N": "1.202"
+        
+        },
+        {
+            "Country": "Palestine",
+            "VeryHappy": "10.3",
+            "RatherHappy": "64.1",
+            "NotVeryHappy": "19.7",
+            "NotAtAllHappy": "5.5",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.4",
+            "N": "1"
+        
+        },
+        {
+            "Country": "Germany",
+            "VeryHappy": "23.1",
+            "RatherHappy": "60.9",
+            "NotVeryHappy": "13.4",
+            "NotAtAllHappy": "1.5",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "1",
+            "N": "2.046" 
+        },
+        {
+            "Country": "Ghana",
+            "VeryHappy": "51",
+            "RatherHappy": "29.8",
+            "NotVeryHappy": "15.9",
+            "NotAtAllHappy": "3.3",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.552"
+        },
+        {
+            "Country": "Haiti",
+            "VeryHappy": "31.7",
+            "RatherHappy": "51.8",
+            "NotVeryHappy": "9.9",
+            "NotAtAllHappy": "5.7",
+            "HTRU": "0.1",
+            "NoAnswer": "0.1",
+            "DontKnow": "0.9",
+            "N": "1.996"
+        
+        },
+        {
+            "Country": "Hong Kong",
+            "VeryHappy": "23.4",
+            "RatherHappy": "65.7",
+            "NotVeryHappy": "9.3",
+            "NotAtAllHappy": "1.4",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": " ",
+            "N": "1"
+        
+        },
+        {
+            "Country": "India",
+            "VeryHappy": "37.4",
+            "RatherHappy": "50",
+            "NotVeryHappy": "10.8",
+            "NotAtAllHappy": "1.4",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "4.078"
+        
+        },
+        {
+            "Country": "Iraq",
+            "VeryHappy": "10.5",
+            "RatherHappy": "57.5",
+            "NotVeryHappy": "26.3",
+            "NotAtAllHappy": "4.8",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.9",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Japan",
+            "VeryHappy": "32.3",
+            "RatherHappy": "54.2",
+            "NotVeryHappy": "9.4",
+            "NotAtAllHappy": "1",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "3.2",
+            "N": "2.443"
+        
+        },
+        {
+            "Country": "Kazakhstan",
+            "VeryHappy": "31.2",
+            "RatherHappy": "57.3",
+            "NotVeryHappy": "11.1",
+            "NotAtAllHappy": "0.4",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.5"
+        
+        },
+        {
+            "Country": "Jordan",
+            "VeryHappy": "20.8",
+            "RatherHappy": "65",
+            "NotVeryHappy": "9.8",
+            "NotAtAllHappy": "4.5",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "South Korea",
+            "VeryHappy": "15.2",
+            "RatherHappy": "74.8",
+            "NotVeryHappy": "9.2",
+            "NotAtAllHappy": "0.7",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Kuwait",
+            "VeryHappy": "41.3",
+            "RatherHappy": "50.3",
+            "NotVeryHappy": "6.4",
+            "NotAtAllHappy": "0.9",
+            "HTRU": " ",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.6",
+            "N": "1.303"
+        
+        },
+        {
+            "Country": "Kyrgyzstan",
+            "VeryHappy": "36.2",
+            "RatherHappy": "59.7",
+            "NotVeryHappy": "3.7",
+            "NotAtAllHappy": "0.3",
+            "HTRU": " ",
+            "NoAnswer": "0.1",
+            "DontKnow": " ",
+            "N": "1.5"
+        
+        },
+        {
+            "Country": "Lebanon",
+            "VeryHappy": "17.9",
+            "RatherHappy": "60.4",
+            "NotVeryHappy": "19",
+            "NotAtAllHappy": "2.2",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Libya",
+            "VeryHappy": "38.5",
+            "RatherHappy": "49",
+            "NotVeryHappy": "8.7",
+            "NotAtAllHappy": "2.9",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.7",
+            "N": "2.131"
+        
+        },
+        {
+            "Country": "Malaysia",
+            "VeryHappy": "56.5",
+            "RatherHappy": "39.5",
+            "NotVeryHappy": "3.9",
+            "NotAtAllHappy": " ",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.3"
+        
+        },
+        {
+            "Country": "Mexico",
+            "VeryHappy": "67.5",
+            "RatherHappy": "26.8",
+            "NotVeryHappy": "5.3",
+            "NotAtAllHappy": "0.4",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "2"
+        
+        },
+        {
+            "Country": "Morocco",
+            "VeryHappy": "21",
+            "RatherHappy": "57.3",
+            "NotVeryHappy": "15.8",
+            "NotAtAllHappy": "5.6",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": "0.1",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Netherlands",
+            "VeryHappy": "31.9",
+            "RatherHappy": "60.5",
+            "NotVeryHappy": "6",
+            "NotAtAllHappy": "0.6",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.9",
+            "N": "1.902"
+        
+        },
+        {
+            "Country": "New Zealand",
+            "VeryHappy": "33.7",
+            "RatherHappy": "58.7",
+            "NotVeryHappy": "4.3",
+            "NotAtAllHappy": "0.7",
+            "HTRU": " ",
+            "NoAnswer": "1.8",
+            "DontKnow": "0.8",
+            "N": "841"
+        
+        },
+        {
+            "Country": "Nigeria",
+            "VeryHappy": "55.6",
+            "RatherHappy": "29.1",
+            "NotVeryHappy": "11.6",
+            "NotAtAllHappy": "3.7",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.759"
+        
+        },
+        {
+            "Country": "Pakistan",
+            "VeryHappy": "45.6",
+            "RatherHappy": "39.1",
+            "NotVeryHappy": "10.9",
+            "NotAtAllHappy": "4.2",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Peru",
+            "VeryHappy": "35.1",
+            "RatherHappy": "40.9",
+            "NotVeryHappy": "22.4",
+            "NotAtAllHappy": "0.9",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.7",
+            "N": "1.21"
+        
+        },
+        {
+            "Country": "Philippines",
+            "VeryHappy": "49.6",
+            "RatherHappy": "39.8",
+            "NotVeryHappy": "9.6",
+            "NotAtAllHappy": "1.1",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Poland",
+            "VeryHappy": "22.2",
+            "RatherHappy": "70.4",
+            "NotVeryHappy": "5.3",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": "1",
+            "N": "966"
+        
+        },
+        {
+            "Country": "Qatar",
+            "VeryHappy": "56.4",
+            "RatherHappy": "41.6",
+            "NotVeryHappy": "1.7",
+            "NotAtAllHappy": "0.3",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.06"
+        
+        },
+        {
+            "Country": "Romania",
+            "VeryHappy": "13.6",
+            "RatherHappy": "55.4",
+            "NotVeryHappy": "26.4",
+            "NotAtAllHappy": "4",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.3",
+            "N": "1.503"
+        },
+        {
+            "Country": "Russia",
+            "VeryHappy": "14.8",
+            "RatherHappy": "58.5",
+            "NotVeryHappy": "20.7",
+            "NotAtAllHappy": "1.8",
+            "HTRU": "0.1",
+            "NoAnswer": "0.3",
+            "DontKnow": "3.8",
+            "N": "2.5"
+        
+        },
+        {
+            "Country": "Rwanda",
+            "VeryHappy": "40.6",
+            "RatherHappy": "49.8",
+            "NotVeryHappy": "8.5",
+            "NotAtAllHappy": "1",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.527"
+        
+        },
+        {
+            "Country": "Singapore",
+            "VeryHappy": "39.1",
+            "RatherHappy": "53.9",
+            "NotVeryHappy": "6.5",
+            "NotAtAllHappy": "0.5",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.972"
+        
+        },
+        {
+            "Country": "Slovenia",
+            "VeryHappy": "19.5",
+            "RatherHappy": "63.8",
+            "NotVeryHappy": "14.2",
+            "NotAtAllHappy": "1.8",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": "0.3",
+            "N": "1.069"
+        
+        },
+        {
+            "Country": "South Africa",
+            "VeryHappy": "39.3",
+            "RatherHappy": "37.1",
+            "NotVeryHappy": "17.7",
+            "NotAtAllHappy": "5.6",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "3.531"
+        
+        },
+        {
+            "Country": "Zimbabwe",
+            "VeryHappy": "39.4",
+            "RatherHappy": "39.5",
+            "NotVeryHappy": "18.7",
+            "NotAtAllHappy": "2.5",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.499"
+        
+        },
+        {
+            "Country": "Spain",
+            "VeryHappy": "15.5",
+            "RatherHappy": "70.9",
+            "NotVeryHappy": "12.2",
+            "NotAtAllHappy": "1.1",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.3",
+            "N": "1.189"
+        
+        },
+        {
+            "Country": "Sweden",
+            "VeryHappy": "40.5",
+            "RatherHappy": "54.1",
+            "NotVeryHappy": "4.9",
+            "NotAtAllHappy": "0.4",
+            "HTRU": " ",
+            "NoAnswer": "0.2",
+            "DontKnow": " ",
+            "N": "1.206"
+        
+        },
+        {
+            "Country": "Thailand",
+            "VeryHappy": "39.7",
+            "RatherHappy": "53.3",
+            "NotVeryHappy": "5.3",
+            "NotAtAllHappy": "1.6",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.2"
+        
+        },
+        {
+            "Country": "Trinidad and Tobago",
+            "VeryHappy": "54.2",
+            "RatherHappy": "33.8",
+            "NotVeryHappy": "11.1",
+            "NotAtAllHappy": "0.9",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "999"
+        
+        },
+        {
+            "Country": "Tunisia",
+            "VeryHappy": "16.7",
+            "RatherHappy": "62.6",
+            "NotVeryHappy": "15.8",
+            "NotAtAllHappy": "4.7",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": "0.2",
+            "N": "1.205"
+        
+        },
+        {
+            "Country": "Turkey",
+            "VeryHappy": "37.5",
+            "RatherHappy": "46.3",
+            "NotVeryHappy": "11.9",
+            "NotAtAllHappy": "3.8",
+            "HTRU": " ",
+            "NoAnswer": "0.3",
+            "DontKnow": "0.2",
+            "N": "1.605"
+        
+        },
+        {
+            "Country": "Ukraine",
+            "VeryHappy": "16.1",
+            "RatherHappy": "52",
+            "NotVeryHappy": "22.6",
+            "NotAtAllHappy": "4.2",
+            "HTRU": " ",
+            "NoAnswer": "0.7",
+            "DontKnow": "4.3",
+            "N": "1.5"
+        
+        },
+        {
+            "Country": "Egypt",
+            "VeryHappy": "5.3",
+            "RatherHappy": "20.7",
+            "NotVeryHappy": "30.1",
+            "NotAtAllHappy": "44",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1.523"
+        
+        },
+        {
+            "Country": "United States",
+            "VeryHappy": "36.1",
+            "RatherHappy": "53.5",
+            "NotVeryHappy": "8.8",
+            "NotAtAllHappy": "1.2",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": " ",
+            "N": "2.232"
+        
+        },
+        {
+            "Country": "Uruguay",
+            "VeryHappy": "34.2",
+            "RatherHappy": "51.8",
+            "NotVeryHappy": "11.4",
+            "NotAtAllHappy": "2.1",
+            "HTRU": " ",
+            "NoAnswer": "0.4",
+            "DontKnow": "0.1",
+            "N": "1"
+        
+        },
+        {
+            "Country": "Uzbekistan",
+            "VeryHappy": "64.5",
+            "RatherHappy": "31.5",
+            "NotVeryHappy": "3.3",
+            "NotAtAllHappy": "0.2",
+            "HTRU": " ",
+            "NoAnswer": "0.5",
+            "DontKnow": " ",
+            "N": "1.5"
+        
+        },
+        {
+            "Country": "Yemen",
+            "VeryHappy": "17.9",
+            "RatherHappy": "54.2",
+            "NotVeryHappy": "24.4",
+            "NotAtAllHappy": "3.5",
+            "HTRU": " ",
+            "NoAnswer": " ",
+            "DontKnow": " ",
+            "N": "1"  
+        }
+    ]
+}

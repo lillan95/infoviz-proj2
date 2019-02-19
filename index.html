@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project 2</title>
+    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./d3Things.js" type="text/javascript" charset="utf-8"></script>
+	<!--<link rel="stylesheet" href="http://onehackoranother.com/projects/jquery/tipsy/stylesheets/tipsy.css" type="text/css" title="no title" charset="utf-8"/>-->
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  </head> 
+
+<body>
+<div class="row">
+    <div id="chart" class="col-sm-6">
+        <div>
+            Change parameter:
+            <select id="yParam" onchange="changeParam(this.value)">
+                <option selected value="religion">Religion</option>
+                <option value="family">Family</option>
+            </select>
+        </div>
+    </div>
+    <div id="chart" class="col-sm-6">
+        <h3>Timeperiod: </h3>
+        <nav aria-label="">
+            <ul class="pagination" >
+                <li class="page-item" id="Y8184"><a class="page-link" onclick="newTimePeriod('Y8184')">1981-1984</a></li>
+                <li class="page-item" id="Y9094"><a class="page-link" onclick="newTimePeriod('Y9094')">1990-1994</a></li>
+                <li class="page-item" id="Y9598"><a class="page-link" onclick="newTimePeriod('Y9598')">1995-1998</a></li>
+                <li class="page-item" id="Y9904"><a class="page-link" onclick="newTimePeriod('Y9904')">1999-2004</a></li>
+                <li class="page-item" id="Y0509"><a class="page-link" onclick="newTimePeriod('Y0509')">2005-2009</a></li>
+                <li class="page-item active" id="Y1014"><a class="page-link" onclick="newTimePeriod('Y1014')">2010-2014</a></li>
+            </ul>
+        </nav>
+
+        <div id="countryList" style="max-height: 20em; max-width: 30em; overflow:auto; border-style:groove; padding: 1em;"> <div id="countries"></div> </div>
+    </div>
+</div>
+    
+<div class="row" style="background-color: aliceblue; padding-left: 2em;">
+    <h2 > <p id="hoveringC">Hover over a country!</p></h2>
+    <div class="row">
+        <div id="circlechart" class="chart-container"></div>
+    </div>
+    
+</div>
+</body>
+</html>
