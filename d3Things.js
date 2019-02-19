@@ -13,9 +13,9 @@ function changeParam(chosen) {
     yParam = chosen;
     d3.select("#ylabel")
     .text(function() {if (chosen == "leisureTime") {return  "Importance of leisure time"} else{ return "Importance of " + chosen}});
-    d3.json("happiness.json", function(data) {
+    d3.json("infoviz-proj2/happiness.json", function(data) {
         var happinessPeriod = data[timeP];
-        d3.json(chosen+".json", function(data) {
+        d3.json("infoviz-proj2/"+chosen+".json", function(data) {
             console.log(data)
             var religion = data[timeP];
             circleplot(happinessPeriod,religion)
@@ -79,9 +79,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
         .attr("transform", "rotate(-90)")
         .text("Importance of religion");
 
-    d3.json("happiness.json", function(data) { 
+    d3.json("infoviz-proj2/happiness.json", function(data) { 
         var happinessPeriod = data[timeP];
-        d3.json(yParam+".json", function(data) {
+        d3.json("infoviz-proj2/"+yParam+".json", function(data) {
             var religion = data[timeP];
             var circles = d3.select("#chart").select("svg").select("g").selectAll("circle")
 
@@ -102,9 +102,9 @@ function checkboxes(checkID, timePeriod){
     if (isChecked){
         var circles = d3.select("#chart").select("svg").select("g").selectAll("circle")
 
-        d3.json("happiness.json", function(data) {
+        d3.json("infoviz-proj2/happiness.json", function(data) {
             var happinessPeriod = data[timeP]
-            d3.json(yParam+".json", function(data) {
+            d3.json("infoviz-proj2/"+yParam+".json", function(data) {
             var religion = data[timeP];
             var elementData = [0 ,0]
             
@@ -173,9 +173,9 @@ var mouseOn = function() {
     d3.select("#hoveringC")
         .text(hovering)
 
-    d3.json("happiness.json", function(data) {
+    d3.json("infoviz-proj2/happiness.json", function(data) {
         var happinessPeriod = data[timeP]
-        d3.json(yParam+".json", function(data) {
+        d3.json("infoviz-proj2/"+yParam+".json", function(data) {
             var religion = data[timeP];
             
             var elementData = [0 ,0]
@@ -404,9 +404,9 @@ function drawDiagram(dataset){
 function newTimePeriod(timePeriod){
     timeP = timePeriod;
     d3.select("#circlechart").selectAll("svg").remove() 
-    d3.json("happiness.json", function(data) {
+    d3.json("infoviz-proj2/happiness.json", function(data) {
         var happinessPeriod = data[timeP];
-        d3.json(yParam+".json", function(data) {
+        d3.json("infoviz-proj2/"+yParam+".json", function(data) {
             var religion = data[timeP];
             if (happinessPeriod == null || religion == null) {
                 d3.select("#hoveringC")
