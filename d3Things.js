@@ -626,7 +626,7 @@ function drawDiagram(dataset, typeText, hovering){
                                         numberOfP = 0
                                         return "Amount of participants for "+ yParam + " survey not available"
                                     }
-                                    return "Amount of participants in each survey: " + numberOfP
+                                    return "Amount of participants in "+ yParam + " survey: " + numberOfP
                             })
                         }
                         else{
