@@ -11,78 +11,79 @@
 
     <script src="https://lillan95.github.io/infoviz-proj2/jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
     <script src="https://lillan95.github.io/infoviz-proj2/d3Things.js" type="text/javascript" charset="utf-8"></script>
-    <link rel="stylesheet" type="text/css" href="https://lillan95.github.io/infoviz-proj2/styles.css"><!--
-    <script src="/jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="https://lillan95.github.io/infoviz-proj2/styles.css">
+    <!--<script src="/jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
     <script src="d3Things.js" type="text/javascript" charset="utf-8"></script>
     <link rel="stylesheet" type="text/css" href="/styles.css">-->
 </head> 
 
 <body>
 <br/>
-<div class="row">
-    <div class="col-sm-6">
-        <div id="chart" class="">
-            <div>
+<div class="" >
+    <div class="row">
+        <div class="col-sm-6">
+            <div id="chart" class="">
+                <div style="margin-left: 1em;">
+                    Change Importance parameter:
+                    <select id="yParam" onchange="changeParam(this.value)">
+                        <option selected value="religion">Religion</option>
+                        <option value="family">Family</option>
+                        <option value="friends">Friends</option>
+                        <option value="leisureTime">Leisure Time</option>
+                        <option value="politics">Politics</option>
+                        <option value="work">Work</option>
+                    </select>
+                </div>
+            </div>
+            <div id="" class="offset-sm-8 col-sm-3" style="margin-top: -4em; margin-bottom: 2em;">    
                 Change parameter:
-                <select id="yParam" onchange="changeParam(this.value)">
-                    <option selected value="religion">Religion</option>
-                    <option value="family">Family</option>
-                    <option value="friends">Friends</option>
-                    <option value="leisureTime">Leisure Time</option>
-                    <option value="politics">Politics</option>
-                    <option value="work">Work</option>
+                <select id="xParam" onchange="changeX(this.value)">
+                    <option selected value="happiness">Happiness</option>
+                    <option value="income">Income (Gapminder)</option>
                 </select>
             </div>
         </div>
-        <div id="" class="offset-sm-8 col-sm-3" style="margin-top: -4em; margin-bottom: 2em;">    
-            Change parameter:
-            <select id="xParam" onchange="changeX(this.value)">
-                <option selected value="happiness">Happiness</option>
-                <option value="income">Income (Gapminder)</option>
-            </select>
+        <div id="chart" class="col-sm-6" style="padding: 0"> 
+            <h3>Timeperiod: </h3>
+            <nav aria-label="">
+                <ul class="pagination" >
+                    <li class="page-item" id="Y8184"><a class="page-link" onclick="newTimePeriod('Y8184')">1981-1984</a></li>
+                    <li class="page-item" id="Y9094"><a class="page-link" onclick="newTimePeriod('Y9094')">1990-1994</a></li>
+                    <li class="page-item" id="Y9598"><a class="page-link" onclick="newTimePeriod('Y9598')">1995-1998</a></li>
+                    <li class="page-item" id="Y9904"><a class="page-link" onclick="newTimePeriod('Y9904')">1999-2004</a></li>
+                    <li class="page-item" id="Y0509"><a class="page-link" onclick="newTimePeriod('Y0509')">2005-2009</a></li>
+                    <li class="page-item active" id="Y1014"><a class="page-link" onclick="newTimePeriod('Y1014')">2010-2014</a></li>
+                </ul>
+            </nav>
+            <div id="countryList" style="max-height: 20em; max-width: 30em; overflow:auto; border-style:groove; padding: 1em;"> <div id="countries"></div> </div>
         </div>
     </div>
-    <div id="chart" class="col-sm-6">
-        <h3>Timeperiod: </h3>
-        <nav aria-label="">
-            <ul class="pagination" >
-                <li class="page-item" id="Y8184"><a class="page-link" onclick="newTimePeriod('Y8184')">1981-1984</a></li>
-                <li class="page-item" id="Y9094"><a class="page-link" onclick="newTimePeriod('Y9094')">1990-1994</a></li>
-                <li class="page-item" id="Y9598"><a class="page-link" onclick="newTimePeriod('Y9598')">1995-1998</a></li>
-                <li class="page-item" id="Y9904"><a class="page-link" onclick="newTimePeriod('Y9904')">1999-2004</a></li>
-                <li class="page-item" id="Y0509"><a class="page-link" onclick="newTimePeriod('Y0509')">2005-2009</a></li>
-                <li class="page-item active" id="Y1014"><a class="page-link" onclick="newTimePeriod('Y1014')">2010-2014</a></li>
-            </ul>
-        </nav>
-        <div id="countryList" style="max-height: 20em; max-width: 30em; overflow:auto; border-style:groove; padding: 1em;"> <div id="countries"></div> </div>
-    </div>
-</div>
-    
-<div class="row" style="background-color: aliceblue; padding-left: 2em; padding-top: 1em; min-height: 500px;">
-    
-    <h2 > <p id="hoveringC">Hover over a country!</p></h2>
-    <div class="row">
-        <div id="circlechart" class="chart-container">
-            <br/>
-            <br/>
-            <div  class="row questions">
-                <h5 id="topquestion"></h5>
-            </div>            
-            <div class="row">
-                <div id="importance" class="questions col-sm-6">
+        
+    <div class="row" style="background-color: aliceblue; padding-left: 2em; padding-top: 1em; min-height: 500px;">
+        
+        <h2 > <p id="hoveringC">Hover over a country!</p></h2>
+        <div class="row">
+            <div id="circlechart" class="chart-container">
+                <br/>
+                <br/>
+                <div  class="row questions">
+                    <h5 id="topquestion"></h5>
+                </div>            
+                <div class="row">
+                    <div id="importance" class="questions col-sm-6">
 
-                </div>
-                <div id="happy" class="questions col-sm-6 ">
+                    </div>
+                    <div id="happy" class="questions col-sm-6 ">
 
+                    </div>
                 </div>
+                
             </div>
-            
+        </div>
+        <div id="moredata" class="" >
+
         </div>
     </div>
-    <div id="moredata" class="" >
-
-    </div>
-    
 </div>
 </body>
 </html>

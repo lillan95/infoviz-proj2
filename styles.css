@@ -46,9 +46,9 @@ body { font: 12px sans-serif; }
     text-shadow: 1px 1px #06060d;
 }
 
-.chart-container{
-    padding:25px;
-}
+/*.chart-container{
+    padding: 0 25px 25px 25px;
+}*/
 
 .shadow {
     -webkit-filter: drop-shadow( 0px 3px 3px rgba(0,0,0,.5) );
@@ -59,3 +59,13 @@ body { font: 12px sans-serif; }
     margin: 10em;    
 }
 
+.col-sm-6{
+    margin: -2px;
+}
+
+/*#countryList {
+    max-height: 20em; 
+    max-width: 30em; 
+    overflow:auto; 
+    border-style:groove; padding: 1em;
+}*/

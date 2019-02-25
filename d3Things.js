@@ -134,7 +134,7 @@ function gapminder() {
                     string +=  '<br/> <input type="checkbox" checked="checked" id="checked'+value.Country.replace(/\s/g, '_') +'" onclick="checkboxes(\''+value.Country.replace(/\s/g, '_') +'\', \''+timeP+'\')">   ' + value.Country;
                     count = i;
                 });
-                string = String(count) + " countries displayed " + string;             
+                string = '<h5> ' + String(count) + ' countries displayed </h5>' +  string;             
             return string           
             })
         })
@@ -895,7 +895,7 @@ function circleplot(happinessPeriod,religion){
                 }
             })
         })
-        string = String(i) + " countries displayed " + string;             
+        string = '<h5>' + String(i) + " countries displayed </h5>" + string;             
     return string           
     })
 }
