@@ -1,7 +1,7 @@
 {
     "Y1014": [
         {
-            "Country": "Total",
+            "Country": "World Average",
             "VeryImportant": "14.7",
             "RatherImportant": "28.9",
             "NotVeryImportant": "33.1",
@@ -796,7 +796,7 @@
     ],
     "Y0509":[
         {
-            "Country": "Total",
+            "Country": "World Average",
             "VeryImportant": "14.2",
             "RatherImportant": "29.2",
             "NotVeryImportant": "33.4",
@@ -1494,7 +1494,7 @@
     ],
     "Y9904":[
         {
-            "Country": "Total",
+            "Country": "World Average",
             "VeryImportant": "16",
             "RatherImportant": "27.3",
             "NotVeryImportant": "30.8",
@@ -1947,7 +1947,7 @@
     ],
     "Y9598": [
         {
-            "Country": "Total",
+            "Country": "World Average",
             "VeryImportant": "11.4",
             "RatherImportant": "26.1",
             "NotVeryImportant": "36.6",
@@ -2554,7 +2554,7 @@
     ],
     "Y9094": [
         {
-            "Country": "Total",
+            "Country": "World Average",
             "VeryImportant": "15.5",
             "RatherImportant": "25.5",
             "NotVeryImportant": "32.2",
